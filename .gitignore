@@ -9,3 +9,4 @@ bin/
 *.obj
 *.lib
 *.pdb
+data_config.params
