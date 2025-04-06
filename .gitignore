@@ -10,3 +10,4 @@ bin/
 *.lib
 *.pdb
 data_config.params
+*.gz
