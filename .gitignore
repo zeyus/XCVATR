@@ -1,0 +1,11 @@
+samtools-*/
+bin/
+*.o
+*.a
+*.so
+*.d
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb

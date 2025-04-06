@@ -2,7 +2,7 @@ all: XCVATR
 
 CC = g++
 comp_flags = -c -Wall -O3
-exec_name = ../../bin/XCVATR
+exec_name = ./bin/XCVATR
 lib_flags = -lz
 LIB_DIR = src
 
